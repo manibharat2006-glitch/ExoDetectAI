@@ -1,0 +1,27 @@
+# Streamlit app dependencies
+streamlit==1.50.0
+
+# Data handling
+pandas==2.3.2
+numpy==2.2.6
+
+# Machine learning
+scikit-learn==1.7.2
+joblib==1.5.2
+tensorflow==2.20.0
+keras==3.11.3
+
+# Plotting & visualization
+matplotlib==3.10.6
+seaborn==0.13.2
+altair==5.5.0
+
+# Astronomy & astrophysics
+astropy==7.1.0
+lightkurve==2.5.1
+astroquery==0.4.11
+
+# Optional extras that Streamlit often requires
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.5
